@@ -1,0 +1,1357 @@
+.frame {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    width: 11403px;
+    height: 7717px;
+    position: relative;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 7680px;
+    top: 37px;
+    left: 3097px;
+  }
+  
+  .frame .parchi {
+    position: absolute;
+    width: 1440px;
+    height: 7680px;
+    top: 0;
+    left: 0;
+    background-color: #88965b;
+    overflow: hidden;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 127px;
+    top: 0;
+    left: 0;
+    background-color: #023f04;
+  }
+  
+  .frame .home-parchi-flora-e {
+    position: absolute;
+    width: 600px;
+    top: 46px;
+    left: 773px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 91px;
+    height: 7px;
+    top: 97px;
+    left: 886px;
+    background-color: #d9d9d9;
+    border-radius: 7px;
+  }
+  
+  .frame .group {
+    position: absolute;
+    width: 772px;
+    height: 220px;
+    top: 17px;
+    left: 1754px;
+  }
+  
+  .frame .group-wrapper {
+    height: 220px;
+  }
+  
+  .frame .div-wrapper {
+    position: relative;
+    width: 774px;
+    height: 220px;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 772px;
+    top: 0;
+    left: 0;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    width: 1133px;
+    top: 151px;
+    left: 171px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #192002;
+    font-size: 90px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .img {
+    position: absolute;
+    width: 1440px;
+    height: 489px;
+    top: 439px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .il-parco-nazionale {
+    position: absolute;
+    width: 1087px;
+    top: 1023px;
+    left: 176px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .span {
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+  }
+  
+  .frame .text-wrapper-3 {
+    font-size: 33px;
+  }
+  
+  .frame .montagne-e-paesaggi {
+    position: absolute;
+    width: 1061px;
+    top: 1495px;
+    left: 157px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-4 {
+    font-size: 48px;
+  }
+  
+  .frame .text-wrapper-5 {
+    font-size: 32px;
+  }
+  
+  .frame .rectangle-2 {
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    top: 2098px;
+    left: 167px;
+    object-fit: cover;
+  }
+  
+  .frame .fauna-emblematica-il {
+    width: 1100px;
+    top: 2786px;
+    left: 170px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-3 {
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    top: 3339px;
+    left: 152px;
+    object-fit: cover;
+  }
+  
+  .frame .attivit-per-i {
+    position: absolute;
+    width: 1131px;
+    top: 4027px;
+    left: 167px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .un-patrimonio {
+    width: 1136px;
+    top: 5430px;
+    position: absolute;
+    left: 167px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .p {
+    width: 1169px;
+    top: 5914px;
+    position: absolute;
+    left: 167px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .conservazione-e {
+    width: 1204px;
+    top: 6408px;
+    left: 167px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-4 {
+    position: absolute;
+    width: 1440px;
+    height: 123px;
+    top: 7557px;
+    left: 0;
+    background-color: #3c4d05;
+  }
+  
+  .frame .text-wrapper-6 {
+    position: absolute;
+    width: 971px;
+    top: 298px;
+    left: 234px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 33px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-5 {
+    top: 4711px;
+    left: 161px;
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    object-fit: cover;
+  }
+  
+  .frame .come-visitare-il {
+    position: absolute;
+    width: 1190px;
+    top: 6788px;
+    left: 161px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 7680px;
+    top: 37px;
+    left: 6452px;
+  }
+  
+  .frame .overlap-3 {
+    position: absolute;
+    width: 1440px;
+    height: 639px;
+    top: 289px;
+    left: 0;
+  }
+  
+  .frame .rectangle-6 {
+    top: 150px;
+    position: absolute;
+    width: 1440px;
+    height: 489px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-7 {
+    position: absolute;
+    width: 1272px;
+    top: 0;
+    left: 123px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-4 {
+    position: absolute;
+    width: 1129px;
+    height: 462px;
+    top: 1023px;
+    left: 176px;
+  }
+  
+  .frame .text {
+    position: absolute;
+    width: 1087px;
+    top: 0;
+    left: 0;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .il-parco-nazionale-2 {
+    width: 1128px;
+    top: 22px;
+    left: 1px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-5 {
+    position: absolute;
+    width: 1118px;
+    height: 1614px;
+    top: 2136px;
+    left: 161px;
+  }
+  
+  .frame .montagne-e-paesaggi-2 {
+    position: absolute;
+    width: 1061px;
+    top: 0;
+    left: 28px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-7 {
+    top: 1019px;
+    left: 0;
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    object-fit: cover;
+  }
+  
+  .frame .rectangle-8 {
+    top: 1486px;
+    left: 189px;
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    object-fit: cover;
+  }
+  
+  .frame .attivit-per-i-2 {
+    width: 997px;
+    top: 3839px;
+    left: 192px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .oltre-alla-bellezza {
+    position: absolute;
+    width: 1158px;
+    top: 5633px;
+    left: 160px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .conservazione-e-2 {
+    position: absolute;
+    width: 1185px;
+    top: 6118px;
+    left: 160px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-9 {
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    top: 4738px;
+    left: 161px;
+    object-fit: cover;
+  }
+  
+  .frame .rectangle-10 {
+    position: absolute;
+    width: 1440px;
+    height: 123px;
+    top: 7552px;
+    left: 0;
+    background-color: #3c4d05;
+  }
+  
+  .frame .text-wrapper-8 {
+    position: absolute;
+    top: 5520px;
+    left: 162px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .parchi-2 {
+    position: absolute;
+    width: 1440px;
+    height: 7680px;
+    top: 37px;
+    left: 4811px;
+    background-color: #88965b;
+    overflow: hidden;
+  }
+  
+  .frame .overlap-6 {
+    position: absolute;
+    width: 1166px;
+    height: 934px;
+    top: 1023px;
+    left: 146px;
+  }
+  
+  .frame .text-2 {
+    position: absolute;
+    width: 1087px;
+    top: 0;
+    left: 30px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .il-parco-nazionale-3 {
+    width: 1166px;
+    top: 78px;
+    left: 0;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-11 {
+    top: 2023px;
+    left: 146px;
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    object-fit: cover;
+  }
+  
+  .frame .rectangle-12 {
+    top: 3245px;
+    left: 146px;
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-9 {
+    position: absolute;
+    width: 943px;
+    top: 289px;
+    left: 248px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .fauna-emblematica-il-2 {
+    position: absolute;
+    width: 1141px;
+    top: 2737px;
+    left: 161px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .attivit-per-i-3 {
+    width: 1197px;
+    top: 3938px;
+    left: 141px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .un-patrimonio-2 {
+    position: absolute;
+    width: 1176px;
+    top: 5860px;
+    left: 120px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .questi-borghi {
+    position: absolute;
+    width: 1240px;
+    top: 6078px;
+    left: 120px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-10 {
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+  }
+  
+  .frame .text-wrapper-11 {
+    font-size: 40px;
+  }
+  
+  .frame .overlap-7 {
+    position: absolute;
+    width: 1440px;
+    height: 6021px;
+    top: 0;
+    left: 8322px;
+  }
+  
+  .frame .div-2 {
+    position: absolute;
+    width: 1440px;
+    height: 6021px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .frame .rectangle-13 {
+    width: 198px;
+    left: 999px;
+    position: absolute;
+    height: 7px;
+    top: 87px;
+    background-color: #d9d9d9;
+    border-radius: 7px;
+  }
+  
+  .frame .ginestre-vulcaniche {
+    position: absolute;
+    width: 1037px;
+    top: 582px;
+    left: 211px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-12 {
+    position: absolute;
+    width: 890px;
+    top: 349px;
+    left: 275px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-13 {
+    position: absolute;
+    width: 1133px;
+    top: 181px;
+    left: 153px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #192002;
+    font-size: 90px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .volpe-rossa-FAUNA {
+    position: absolute;
+    width: 935px;
+    height: 624px;
+    top: 1111px;
+    left: 211px;
+    object-fit: cover;
+  }
+  
+  .frame .il-parco-nazionale-4 {
+    width: 1015px;
+    top: 1822px;
+    left: 222px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .granparadiso {
+    position: absolute;
+    width: 954px;
+    height: 636px;
+    top: 2329px;
+    left: 222px;
+    object-fit: cover;
+  }
+  
+  .frame .stelle-alpine-e {
+    position: absolute;
+    width: 908px;
+    top: 3130px;
+    left: 250px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .fauna-dolomiti {
+    top: 3755px;
+    left: 204px;
+    position: absolute;
+    width: 954px;
+    height: 636px;
+  }
+  
+  .frame .fauna-dolomiti-2 {
+    top: 5156px;
+    left: -8925px;
+    position: absolute;
+    width: 954px;
+    height: 636px;
+  }
+  
+  .frame .fauna-pollino {
+    position: absolute;
+    width: 963px;
+    height: 636px;
+    top: 5156px;
+    left: 222px;
+  }
+  
+  .frame .rectangle-14 {
+    position: absolute;
+    width: 1468px;
+    height: 185px;
+    top: 5904px;
+    left: 0;
+    background-color: #3c4d05;
+  }
+  
+  .frame .il-pino-loricato-e {
+    position: absolute;
+    width: 958px;
+    top: 4569px;
+    left: 229px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-8 {
+    position: absolute;
+    width: 1440px;
+    height: 6021px;
+    top: 0;
+    left: 9963px;
+  }
+  
+  .frame .text-wrapper-14 {
+    width: 1156px;
+    top: 349px;
+    left: 153px;
+    font-size: 32px;
+    text-align: center;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .etna-crateri {
+    position: absolute;
+    width: 969px;
+    height: 643px;
+    top: 1004px;
+    left: 207px;
+  }
+  
+  .frame .gran-paradiso {
+    position: absolute;
+    width: 969px;
+    height: 647px;
+    top: 2170px;
+    left: 207px;
+    object-fit: cover;
+  }
+  
+  .frame .trekkings-sull-alta {
+    position: absolute;
+    width: 1005px;
+    top: 2972px;
+    left: 207px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-15 {
+    width: 969px;
+    height: 647px;
+    top: 3427px;
+    left: 207px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .percorsi {
+    position: absolute;
+    width: 1124px;
+    top: 4182px;
+    left: 198px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .parco-nazionale-del {
+    position: absolute;
+    width: 969px;
+    height: 649px;
+    top: 4740px;
+    left: 207px;
+  }
+  
+  .frame .escursioni-sui {
+    position: absolute;
+    width: 1016px;
+    top: 607px;
+    left: 181px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .birdwatching-al-gran {
+    position: absolute;
+    width: 979px;
+    top: 1766px;
+    left: 181px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .home {
+    position: absolute;
+    width: 1440px;
+    height: 3000px;
+    top: 37px;
+    left: 0;
+    background-color: #d9d9d9;
+    overflow: hidden;
+  }
+  
+  .frame .overlap-9 {
+    position: absolute;
+    width: 1523px;
+    height: 2095px;
+    top: 905px;
+    left: -40px;
+  }
+  
+  .frame .rectangle-16 {
+    position: absolute;
+    width: 1445px;
+    height: 1974px;
+    top: 0;
+    left: 40px;
+    background-color: #d9d9d9;
+  }
+  
+  .frame .group-2 {
+    position: absolute;
+    width: 1523px;
+    height: 640px;
+    top: 558px;
+    left: 0;
+  }
+  
+  .frame .overlap-group-2 {
+    position: absolute;
+    width: 1440px;
+    height: 307px;
+    top: 0;
+    left: 40px;
+    background-image: url(./img/rectangle-8-5.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .frame .text-wrapper-15 {
+    position: absolute;
+    width: 216px;
+    top: 154px;
+    left: 641px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 58px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .overlap-10 {
+    position: absolute;
+    width: 1440px;
+    height: 307px;
+    top: 333px;
+    left: 40px;
+    background-image: url(./img/rectangle-15.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .frame .text-wrapper-16 {
+    position: absolute;
+    width: 357px;
+    top: 113px;
+    left: 605px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 58px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-17 {
+    position: absolute;
+    width: 1440px;
+    height: 307px;
+    top: 1225px;
+    left: 40px;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-17 {
+    width: 295px;
+    top: 1350px;
+    left: 681px;
+    color: #ffffff;
+    font-size: 58px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-18 {
+    position: absolute;
+    width: 1503px;
+    height: 178px;
+    top: 1917px;
+    left: 0;
+    background-color: #023f04;
+  }
+  
+  .frame .text-wrapper-18 {
+    width: 938px;
+    top: 114px;
+    left: 294px;
+    font-size: 40px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-11 {
+    position: absolute;
+    width: 1440px;
+    height: 823px;
+    top: 0;
+    left: 0;
+  }
+  
+  .frame .rectangle-19 {
+    position: absolute;
+    width: 1440px;
+    height: 776px;
+    top: 47px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .rectangle-20 {
+    position: absolute;
+    width: 1440px;
+    height: 127px;
+    top: 0;
+    left: 0;
+    background-color: #729400;
+  }
+  
+  .frame .home-parchi-flora-e-2 {
+    position: absolute;
+    width: 600px;
+    top: 46px;
+    left: 792px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-21 {
+    width: 91px;
+    left: 792px;
+    position: absolute;
+    height: 7px;
+    top: 87px;
+    background-color: #d9d9d9;
+    border-radius: 7px;
+  }
+  
+  .frame .text-wrapper-19 {
+    position: absolute;
+    width: 1005px;
+    top: 716px;
+    left: 74px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #afe400;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-20 {
+    position: absolute;
+    width: 459px;
+    top: 274px;
+    left: 69px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-12 {
+    position: absolute;
+    width: 1440px;
+    height: 7680px;
+    top: -85px;
+    left: 1549px;
+  }
+  
+  .frame .overlap-13 {
+    position: absolute;
+    width: 1440px;
+    height: 1628px;
+    top: 439px;
+    left: 0;
+  }
+  
+  .frame .il-parco-dell-etna {
+    position: absolute;
+    width: 1120px;
+    top: 488px;
+    left: 175px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-22 {
+    top: 0;
+    position: absolute;
+    width: 1440px;
+    height: 489px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-21 {
+    position: absolute;
+    width: 1002px;
+    top: 289px;
+    left: 222px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 33px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .fauna-emblematica {
+    width: 994px;
+    top: 2735px;
+    left: 175px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .attivit-per-i-4 {
+    width: 1122px;
+    top: 3832px;
+    left: 150px;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .frame-wrapper {
+    position: absolute;
+    width: 1096px;
+    height: 287px;
+    top: 5395px;
+    left: 172px;
+  }
+  
+  .frame .group-wrapper-2 {
+    height: 287px;
+  }
+  
+  .frame .group-3 {
+    width: 1096px;
+    height: 287px;
+  }
+  
+  .frame .group-4 {
+    position: relative;
+    width: 1098px;
+    height: 287px;
+  }
+  
+  .frame .text-wrapper-22 {
+    position: absolute;
+    width: 1096px;
+    top: 0;
+    left: 0;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .come-visitare-il-2 {
+    position: absolute;
+    width: 1081px;
+    top: 5757px;
+    left: 172px;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle-23 {
+    top: 2089px;
+    left: 161px;
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    object-fit: cover;
+  }
+  
+  .frame .rectangle-24 {
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    top: 3165px;
+    left: 161px;
+    object-fit: cover;
+  }
+  
+  .frame .rectangle-25 {
+    top: 4644px;
+    left: 140px;
+    position: absolute;
+    width: 1118px;
+    height: 595px;
+    object-fit: cover;
+  }
+  
+  .frame .rectangle-26 {
+    width: 1118px;
+    height: 595px;
+    top: 6492px;
+    left: 172px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .group-5 {
+    position: absolute;
+    width: 501px;
+    height: 50px;
+    top: 5306px;
+    left: 184px;
+  }
+  
+  .frame .group-wrapper-3 {
+    height: 50px;
+  }
+  
+  .frame .group-6 {
+    position: relative;
+    width: 503px;
+    height: 50px;
+  }
+  
+  .frame .text-wrapper-23 {
+    top: 0;
+    left: 0;
+    position: absolute;
+    font-family: "Ibarra Real Nova-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  /* Existing CSS code remains unchanged */
+  
+  /* Add these new styles for improved accessibility and semantics */
+  
+  body {
+    font-family: "Ibarra Real Nova", serif;
+    line-height: 1.6;
+    color: #000000;
+  }
+  
+  main {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    color: #192002;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover,
+  a:focus {
+    color: #afe400;
+    text-decoration: underline;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 1em;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .frame {
+      width: 100%;
+    }
+  
+    .text-wrapper-2 {
+      font-size: 60px;
+    }
+  
+    .home-parchi-flora-e {
+      font-size: 24px;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      transition: none !important;
+    }
+  }
+  
